@@ -1,6 +1,6 @@
 import "./index.css";
 
-import "./chapter-01";
+//import "./chapter-01";
 
 import { add } from "./common/math";
 
